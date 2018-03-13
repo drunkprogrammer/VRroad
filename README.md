@@ -15,3 +15,14 @@ Graphics Processing Unit,图像处理单元。
 
 ### [移动VR]  ###
 移动VR是一台包含了两个透镜和一个手机插槽的简单设备。
+
+
+## Preparation ##
+
+### [Unity3D] ###
+支持VR的一款引擎，当然Unreal引擎也是可以的
+
+### [任意一款VR CardBoard] ###
+Google CardBoard, Holokit CardBoard, 暴风魔镜.....
+
+
